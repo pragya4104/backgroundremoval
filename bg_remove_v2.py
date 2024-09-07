@@ -8,7 +8,7 @@ st.set_page_config(layout="wide", page_title="Image Background Remover")
 
 st.write("## Remove background from your image")
 st.write(
-    ":dog: Try uploading an image to watch the background magically removed. Full quality images can be downloaded from the sidebar.\nCode reference:\[Background removal](<https://github.com/tyler-simons/BackgroundRemoval>)"
+    ":dog: Try uploading an image to watch the background magically removed. Full quality images can be downloaded from the sidebar.Code reference:[Background removal](<https://github.com/tyler-simons/BackgroundRemoval>)"
 )
 st.sidebar.write("## Upload and download :gear:")
 
